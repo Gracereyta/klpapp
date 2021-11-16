@@ -1,0 +1,5 @@
+"id","name","email","email_verified_at","password","remember_token","created_at","updated_at"
+1,"Klp Admin","klp-admin@gmail.com",NULL,"$2y$10$hsCLZl88Lp2HKx2dLW4ao.ZEMhEhRSXnn/GpliEPrrL49Z.PDbvZS","QlutcFzHKBrvPXaDPEGsR8dLPvHEtxjGJeim71EpnXP0blms7QIgstzVw9Ll","2021-06-23 05:36:49","2021-06-23 05:36:49"
+2,"Gabie","gabie@klplimitless.com",NULL,"$2y$10$rrk07SAhNcISJvqyUphKDOQmX2QJEihV6oqbfglDvJ1xDRI3whygi","4is5WMtXkhM5PmfZ1haVThSxujBHCURz0YoGWRt3DJnMjp747uRZJprGQsnv","2021-06-23 14:22:24","2021-06-23 14:22:24"
+3,"Chris","chris@klplimitless.com",NULL,"$2y$10$4WaeY0L4y.OV8Krvv8wl.eXYb72X5GihkFUGrH975KnUPogDTciUy","qGL5nHENaeCQprXDRwRPxwPtOOnqGxMk34Z9pGJ9AO1BbGGLFSMI4Xn2mHj4","2021-06-23 14:24:53","2021-06-23 14:24:53"
+4,"Joie Santiago","joie@klplimitless.com",NULL,"$2y$10$gvSCp2DKoEGf9AVrY8IJweFFHRTZpfjcMan6sisQIzWUHccdN95qm","AytgCZyAz8nEkcrjvtlnaPoP7gCzhla3Qdaa2JFJlNFOgQvKzTViLOxqVkhQ","2021-07-08 10:27:35","2021-07-08 10:27:35"
